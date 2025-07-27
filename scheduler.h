@@ -1,8 +1,8 @@
 #ifndef SCHEDULER_H
 #define SCHEDULER_H
 
-#define MAX_TASKS 2
-#define TICK_MS 100
+#define MAX_TASKS 3
+#define TICK_MS 500
 
 typedef struct
 {
